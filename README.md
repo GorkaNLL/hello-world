@@ -1,3 +1,3 @@
 # hello-world
-123
-asdasd
+This repository is for practicing the GitHub Flow.
+Modified from local
